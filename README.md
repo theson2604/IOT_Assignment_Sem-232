@@ -9,6 +9,6 @@ Report: [Smart Farm](https://drive.google.com/file/d/1YyyBdj_5sEkAPnhhJINulJyVMU
 <ul>
   <li>IOT Gateway: https://github.com/ledong0110/IOT_Project_Device </li>
   <li>Central Server: </li>
-  <li>AI Server: </li>
+  <li>AI Server: https://github.com/ledong0110/IOT_AI</li>
   <li>User interface:  </li>
 </ul>
