@@ -8,7 +8,7 @@ Report: [Smart Farm](https://drive.google.com/file/d/1YyyBdj_5sEkAPnhhJINulJyVMU
 ## Applications:
 <ul>
   <li>IOT Gateway: https://github.com/ledong0110/IOT_Project_Device </li>
-  <li>Central Server: </li>
+  <li>Central Server: https://github.com/winnawa/IoT_Devices_Management.git</li>
   <li>AI Server: https://github.com/ledong0110/IOT_AI</li>
   <li>User interface:  </li>
 </ul>
