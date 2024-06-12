@@ -1,6 +1,6 @@
 # IOT Assignment 232
 ## Technical Report
-Report: [Smart Farm](https://drive.google.com/file/d/1YyyBdj_5sEkAPnhhJINulJyVMUHxPX-c/view?usp=sharing)
+Report: [Smart Farm](https://drive.google.com/file/d/16CCm8S8ERa9yUI7-q_MFLwv37eCeS5tf/view?usp=sharing)
 ## System Architecture
 <img src="https://github.com/ledong0110/IOT_Assignment_Sem-232/blob/main/arch.png" width="500"/>
 
